@@ -98,7 +98,7 @@ footer {
 				
 			</div>
 			<div class="col-sm-8 text-left">
-				<h1>Gior-Jet</h1>
+				<h1>Welcome</h1>
 				<p></p>
 				<hr>
 				<h3>test</h3>

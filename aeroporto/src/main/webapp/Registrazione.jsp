@@ -9,16 +9,19 @@
 
 <body>
 
-<h2>Login</h2>
+  <h1 style="text-align:center;">Login</h1>
 
-<form action="home">
+<form action="home2">
+
+  <h1 style="text-align:center;">
   Email:<br>
   <input type="text" name="firstname" value="">
   <br>
   Password:<br>
   <input type="password" name="lastname" value="">
   <br><br>
-  <input type="submit" value="Submit">
+  <input type="submit" value="Submit"></h1>
+  
 </form> 
 
 

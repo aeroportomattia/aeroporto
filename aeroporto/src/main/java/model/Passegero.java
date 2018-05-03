@@ -12,6 +12,8 @@ public class Passegero {
 	
 	private String email;
 	
+	private String password;
+	
 	private String paese_di_residenza;
 	
 	private String indrizzo;
@@ -59,12 +61,20 @@ public class Passegero {
 	public void setEmail(String email) {
 		this.email = email;
 	}
+	
+	public String getPassword() {
+		return password;
+	}
 
-	public String getPaese_di_residenza() {
+	public void setPassword(String password) {
+		this.password = password;
+	}
+
+	public String getPaese_Stato() {
 		return paese_di_residenza;
 	}
 
-	public void setPaese_di_residenza(String paese_di_residenza) {
+	public void setPaese_Stato(String paese_di_residenza) {
 		this.paese_di_residenza = paese_di_residenza;
 	}
 

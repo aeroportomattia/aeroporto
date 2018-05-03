@@ -31,4 +31,15 @@
 		<servlet-name>PASSEGGERO</servlet-name>
 		<url-pattern>/passeggero</url-pattern>
 	</servlet-mapping>
+	
+		<servlet-mapping>
+		<servlet-name>HOME2</servlet-name>
+		<url-pattern>/home2</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>HOME2</servlet-name>
+		<servlet-class>view.Home2</servlet-class>
+	</servlet>
+	
 </web-app>

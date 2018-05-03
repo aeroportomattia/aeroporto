@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<h2>Passeggero</h2>
+<h2>Prenota</h2>
 
 <form action="registrazione">
   Nome:<br>
@@ -53,6 +53,7 @@
   
   <input type="submit" value="Submit">
 </form> 
+
 
 
 </body>
