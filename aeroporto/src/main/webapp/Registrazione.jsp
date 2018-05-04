@@ -11,7 +11,7 @@
 
   <h1 style="text-align:center;">Login</h1>
 
-<form action="home2">
+<form action="Home2">
 
   <h1 style="text-align:center;">
   Email:<br>

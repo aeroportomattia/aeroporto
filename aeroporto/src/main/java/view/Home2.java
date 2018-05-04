@@ -16,7 +16,7 @@ public class Home2 extends HttpServlet {
 		//super.doGet(req, resp)
 		
 		resp.setContentType("text/html"); //nella responso dico il tipo di ritorno qui in questo caso: pagina html		 
-		  String nextJSP = "/home2.jsp"; //la richiesta sopra mi genera la pagina hello.jsp
+		  String nextJSP = "/Home2.jsp"; //la richiesta sopra mi genera la pagina hello.jsp
 		  RequestDispatcher dispatcher = getServletContext().getRequestDispatcher(nextJSP);
 		  dispatcher.forward(req,resp);
 	}
