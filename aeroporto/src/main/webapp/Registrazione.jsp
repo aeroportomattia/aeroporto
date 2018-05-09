@@ -18,7 +18,7 @@
   <input type="text" name="firstname" value="">
   <br>
   Password:<br>
-  <input type="password" name="lastname" value="">
+  <input type="password" name="psw">
   <br><br>
   <input type="submit" value="Submit"></h1>
   

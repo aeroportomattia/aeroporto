@@ -8,49 +8,26 @@
 </head>
 <body>
 
-<h2>Prenota</h2>
+<h2>Prenota e Vola</h2>
 
-<form action="registrazione">
-  Nome:<br>
-  <input type="text" name="firstname" value="">
-  <br><br>
-  
-  Cognome:<br>
+<form action="Home2">
+ 
+  Data di partenza:<br>
   <input type="text" name="lastname" value="">
   <br><br>
   
-  Data di Nascita:<br>
+   Data di ritorno:<br>
+  <input type="text" name="lastname" value="">
+  <br><br>
+
+  Città di partenza:<br>
   <input type="text" name="lastname" value="">
   <br><br>
   
-  Email:<br>
+   Città d'arrivo:<br>
   <input type="text" name="lastname" value="">
   <br><br>
-  
-  Password:<br>
-  <input type="password" name="lastname" value="">
-  <br><br>
-  
-  Sesso:<br>
-  <input type="text" name="lastname" value="">
-  <br><br>
-  
-  Paese/Stato:<br>
-  <input type="text" name="lastname" value="">
-  <br><br>
-  
-  Indirizzo:<br>
-  <input type="text" name="lastname" value="">
-  <br><br>
-  
-  Città:<br>
-  <input type="text" name="lastname" value="">
-  <br><br>
-  
-  Cap:<br>
-  <input type="text" name="lastname" value="">
-  <br><br>
-  
+
   <input type="submit" value="Submit">
 </form> 
 

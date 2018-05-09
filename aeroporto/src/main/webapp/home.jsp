@@ -65,7 +65,7 @@ footer {
 				<ul class="nav navbar-nav">
 					<li class="active"><a href="#">Home</a></li>
 					<li><a href="#">Voli</a></li>
-					<li><a href="#">Prenotazione volo</a></li>
+					<li><a href="http://localhost:8080/aeroporto/PrenotazioneVolo">Prenotazione Volo</a></li>
 					<li><a href="#">Negozi e Ristorazione</a></li>
 					<li><a href="#">Servizi</a></li>
 					<li><a href="#">Contact</a></li>
@@ -101,22 +101,97 @@ footer {
 				<h1>Gior-Jet</h1>
 				<p></p>
 				<hr>
-				<h3>test</h3>
+				<h3>
+				
+				
+				
+				
+				<html>
+<head>
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>Partenze</h2>
+
+<table>
+  <tr>
+    <th>Partenza</th>
+    <th>Arrivi</th>
+    <th>Orario Partenze</th>
+    <th>Orario Arrivi</th>
+  </tr>
+  <tr>
+    <td>Milano</td>
+    <td>Mosca</td>
+    <td>14:00</td>
+    <td>18:00</td>
+  </tr>
+  <tr>
+    <td>Milano</td>
+    <td>Berlino</td>
+    <td>13:00</td>
+    <td>15:00</td>
+  </tr>
+  <tr>
+    <td>Milano</td>
+    <td>Tokyo</td>
+    <td>18:15</td>
+    <td>06:35</td>
+  </tr>
+  <tr>
+    <td>Milano</td>
+    <td>Denver</td>
+    <td>20:00</td>
+    <td>08:57</td>
+  </tr>
+  <tr>
+    <td>Milano</td>
+    <td>Helsinki</td>
+    <td>08:00</td>
+    <td>11:22</td>
+  </tr>
+  <tr>
+    <td>Milano</td>
+    <td>Rio</td>
+    <td>19:43</td>
+    <td>09:21</td>
+  </tr>
+</table>
+
+</body>
+</html>
+				
+	
+				
+				</h3>
 				<p></p>
 			</div>
 			<div class="col-sm-2 sidenav">
-				<div class="well">
-					<p>ADS</p>
-				</div>
-				<div class="well">
-					<p>ADS</p>
-				</div>
+				
+				
 			</div>
 		</div>
 	</div>
 
 	<footer class="container-fluid text-center">
-		<p>Footer Text</p>
+		<p>Copyright by Gior-Jet</p>
 	</footer>
 
 </body>

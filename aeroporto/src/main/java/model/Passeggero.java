@@ -1,6 +1,6 @@
 package model;
 
-public class Passegero {
+public class Passeggero {
 
 	private String nome;
 	 

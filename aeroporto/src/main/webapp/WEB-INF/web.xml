@@ -42,4 +42,14 @@
 		<servlet-class>view.Home2</servlet-class>
 	</servlet>
 	
+		<servlet-mapping>
+		<servlet-name>PRENOTAZIONEVOLO</servlet-name>
+		<url-pattern>/PrenotazioneVolo</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>PRENOTAZIONEVOLO</servlet-name>
+		<servlet-class>view.PrenotazioneVolo</servlet-class>
+	</servlet>
+	
 </web-app>
