@@ -64,11 +64,11 @@ footer {
 			<div class="collapse navbar-collapse" id="myNavbar">
 				<ul class="nav navbar-nav">
 					<li class="active"><a href="http://localhost:8080/aeroporto/home">Home</a></li>
-					<li><a href="#">Voli</a></li>
+					<li><a href="#"></a></li>
 					<li><a href="http://localhost:8080/aeroporto/PrenotazioneVolo">Prenotazione Volo</a></li>
-					<li><a href="#">Negozi e Ristorazione</a></li>
-					<li><a href="#">Servizi</a></li>
-					<li><a href="#">Contact</a></li>
+					<li><a href="#"></a></li>
+					<li><a href="#"></a></li>
+					<li><a href="#"></a></li>
 
 				</ul>
 				<ul class="nav navbar-nav navbar-right">

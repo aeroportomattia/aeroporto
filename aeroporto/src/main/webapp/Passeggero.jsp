@@ -20,11 +20,11 @@
   <br><br>
   
   Data di Nascita:<br>
-  <input type="text" name="lastname" value="">
+  <input type="date" placeholder="gg/mm/aaaa" name="lastname" >
   <br><br>
   
   Email:<br>
-  <input type="text" name="lastname" value="">
+  <input type="email"  placeholder="mymail@hotmail.com" name="lastname" >
   <br><br>
   
   Password:<br>
@@ -48,7 +48,7 @@
   <br><br>
   
   Cap:<br>
-  <input type="text" name="lastname" value="">
+  <input type="text" placeholder="Number" name="lastname" >
   <br><br>
   
   <input type="submit" value="Submit">

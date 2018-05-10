@@ -13,11 +13,11 @@
 <form action="Home2">
  
   Data di partenza:<br>
-  <input type="text" name="lastname" value="">
+  <input type="date" placeholder="gg/mm/aaaa" name="lastname">
   <br><br>
   
    Data di ritorno:<br>
-  <input type="text" name="lastname" value="">
+  <input type="date" placeholder="gg/mm/aaaa" name="lastname">
   <br><br>
 
   Città di partenza:<br>
